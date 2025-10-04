@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prasadnikapiya&label=Profile%20views&color=0e75b6&style=flat" alt="prasadnikapiya" /> </p>
 
-- 🌱 I’m currently learning **Altium Designer**
+- 🌱 I’m currently Working **Hardware Design Engineering**
 
 - 💬 Ask me about **Electronic Designing and Embedded Systems**
 
